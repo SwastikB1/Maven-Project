@@ -1,8 +1,8 @@
-# mvn-hello-world-web-app
+# Maven Project
 Java Hello World web application created using maven-archetype-webapp
 
 
-## Dependancies
+## Dependencies
 * git
 * maven
 * tomcat
